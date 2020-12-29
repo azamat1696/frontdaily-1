@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3985e76d-9dbf-410e-9145-59d2580e265d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jcJUQYgIse6makTvz51iQMETUW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../#frontdaily2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\#frontdaily1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\#frontdaily1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3985e76d-9dbf-410e-9145-59d2580e265d" name="Default Changelist" comment="" />
+      <created>1604097461514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604097461514</updated>
+      <workItem from="1604097462564" duration="4804000" />
+      <workItem from="1604149222972" duration="1176000" />
+      <workItem from="1604150418485" duration="13891000" />
+      <workItem from="1604228586624" duration="9972000" />
+      <workItem from="1604294153247" duration="777000" />
+      <workItem from="1604336402456" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="128" key="#Inspections" timestamp="1604176707293">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="0" y="128" key="#Inspections/0.0.1600.900@0.0.1600.900" timestamp="1604176707293" />
+    <state x="175" y="230" key="EditFileWatcherDialog" timestamp="1604097583477">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="175" y="230" key="EditFileWatcherDialog/0.0.1600.900@0.0.1600.900" timestamp="1604097583477" />
+    <state x="245" y="210" key="FileChooserDialogImpl" timestamp="1604336414322">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="245" y="210" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1604336414322" />
+    <state x="0" y="207" key="run.anything.popup" timestamp="1604166704397">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="0" y="207" key="run.anything.popup/0.0.1600.900@0.0.1600.900" timestamp="1604166704397" />
+  </component>
+</project>

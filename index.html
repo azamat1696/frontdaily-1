@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css2?family=Muli:wght@400;700&family=Ovo&display=swap' rel='stylesheet'>
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+<div  style="width: 377px ; margin: 25px ">
+    <div class="component--container">
+        <form action="">
+            <i class="fas fa-search"></i>
+            <input type="text" placeholder="Start typing to search">
+        </form>
+        <h6>Popular Search</h6>
+        <ul>
+            <li>
+                <a href="#">Air Transport</a>
+            </li>
+            <li>
+                <a href="#">Aviation</a>
+            </li>
+            <li>
+                <a href="#" class="active">Mekaniske Verksted</a>
+            </li>
+            <li>
+                <a href="#">Port Authority</a>
+            </li>
+            <li>
+                <a href="#">Sporvei</a>
+            </li>
+            <li>
+                <a href="#">Bergens Kreditbank</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div style="width: 656px; padding:50px 0 50px 100px;">
+<div class="component--filter--search">
+
+    <form action="">
+        <div class="input">
+        <i class="fa fa-search"></i>
+        <input type="text" placeholder="Start typing to search">
+        </div>
+    <ul>
+        <li>
+            <label>
+                <input type="radio" checked name="type" value="projects">
+                <span class="text">Projects</span>
+
+            </label>
+        </li>
+        <li>
+            <label>
+                <input type="radio" name="type" value="image">
+                <span class="text">Images</span>
+
+            </label>
+        </li>
+        <li>
+            <label>
+                <input type="radio" name="type" value="people">
+                <span class="text">People</span>
+            </label>
+        </li>
+    </ul>
+
+</div>
+</div>
+
+
+<div style=" width: 456px; margin: 25px">
+    <div class="component-filter">
+        <form>
+            <ul>
+                <li>
+                    <div class="key">Country</div>
+                    <div class="value">
+                        <label class="selectbox">
+                            <select>
+                                <option value="">Norway</option>
+                                <option value="">Turkey</option>
+                            </select>
+                        </label>
+                    </div>
+                </li>
+
+                <li>
+                    <div class="key">City</div>
+                    <div class="value">
+                        <input type="text" value="Bergen">
+                    </div>
+                </li>
+
+                <li class="filter-button">
+                    <a href="#">Cancel</a>
+                    <button type="submit">Apply Filters</button>
+                </li>
+            </ul>
+        </form>
+    </div>
+</div>
+
+<br>
+<br>
+</body>
+</html>
